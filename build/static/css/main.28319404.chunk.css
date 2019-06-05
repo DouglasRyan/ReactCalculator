@@ -1,0 +1,2 @@
+.container{box-sizing:border-box;display:flex;justify-content:center;flex-flow:wrap}.container,.pm{width:360px;margin:0 auto}.pm{text-align:right;padding-right:25px;background:purple;height:40px;line-height:40px}.pm,.wrapper{flex-basis:100%}.wrapper{display:flex;width:360px;height:400px;justify-content:start;flex-wrap:wrap;font-size:20px}.wrapper>button{flex-basis:25%}
+/*# sourceMappingURL=main.28319404.chunk.css.map */
